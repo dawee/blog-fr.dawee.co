@@ -13,7 +13,9 @@ And after six years it feels more like **the obedient boy/girl who talks JS** (o
 
 First I don't like what they've done with the Web.
 Web used to be a simple, unix, KISS thing.
-With **Backbone** I was kind of happy. Backbone did one thing and dit it well.
+With **Backbone** I was kind of happy.
+
+Backbone did one thing and dit it well.
 
 
 When the **Angular** craziness started it was for me the begin of misunderstanding.
@@ -45,7 +47,7 @@ const ON_THE_RIGHT = 'ON_THE_RIGHT';
 When exactly _this_ became a good idea ?
 
 
-But exactly like for Backbone, it's a HUGE success. And I mean like HUUUUUUGE.
+But exactly like for Angular, it's a HUGE success. And I mean like HUUUUUUGE.
 So huge that now, if you look for **React** stuff, you find his buddy redux in the dependencies.
 
 The problem is, I think I like React. Writing components is actually fun.
