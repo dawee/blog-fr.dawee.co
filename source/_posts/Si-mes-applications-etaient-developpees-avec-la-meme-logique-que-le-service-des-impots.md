@@ -120,7 +120,7 @@ A cette époque, je ne travaillais plus chez MySpace.
 J'avais trouvé un poste toujours aussi peu intéressant chez EBay : le SAV.
 
 Je fut bien surpris de voir que le dernier message n'était autre que ma chère Martichet.
-Elle m'expliquait dans son message qu'elle n'avait jamais reçu la notification de surenchère pour la Chauffeuse à Alcool Moulinex. Et que du coup elle avait raté l'offre. Elle disait qu'on avait un bug et que la moindre des choses c'est qu'on lui envoit une Chauffeuse à Alcool Moulinex en compensation.
+Elle m'expliquait dans son message qu'elle n'avait jamais reçu la notification de surenchère pour la _Chauffeuse à Alcool Moulinex_. Et que du coup elle avait raté l'offre. Elle disait qu'on avait un bug et que la moindre des choses c'est qu'on lui envoit une _Chauffeuse à Alcool Moulinex_ en compensation.
 
 Je répondis, un peu surpris, que le message avait bien été envoyé.
 
