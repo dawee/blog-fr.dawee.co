@@ -80,6 +80,8 @@ Nous avons reçu un ATD de la part du SIP de Paris.
 
 Avant de continuer à lire, je dois vous expliquer que ATD veut dire "Avis de Tiers Détenteur". Dans le cas ou vous ne payez pas l'Etat, ce dernier trouvera un moyen de récupérer son argent. Ce moyen c'est le tiers détenteur. Grossomodo la personne qui détient son argent. Donc, souvent, la banque.
 
+![](http://i.giphy.com/nG32MOB995mcU.gif)
+
 ```
 Monsieur,
 
