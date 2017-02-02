@@ -147,6 +147,7 @@ Finalement, je réussis à faire annuler cette taxe (on dit "dégréver", si ça
 
 On m'explique alors que les trois mois que j'ai passé à prouver que je n'avais plus de domicile en banlieue, n'avait été lu que par le SIP de banlieue et non celui de Paris. On m'a alors gentillement invité a tout recommencé avec celui de Paris.
 
+![](http://i.giphy.com/lT4sgCJwC7B4c.gif)
 
 ...
 
