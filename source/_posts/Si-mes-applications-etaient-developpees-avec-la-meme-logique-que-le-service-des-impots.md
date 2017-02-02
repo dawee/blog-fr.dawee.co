@@ -106,7 +106,7 @@ Votre compte est donc débiteur de 100 euros.
 
 Je ... Qu'est ce que quoi ?
 
-Ce que j'ai compris plus tard c'est le dernier avis d'imposition que j'avais reçus était un complément. Il fallait (bien évidemment) comprendre qu'il fallait payer celui de 100 euros ET celui de 400. Je devais donc toujours 100 euros aux impots.
+Ce que j'ai compris plus tard c'est que le dernier avis d'imposition que j'avais reçus était un complément. Il fallait (bien évidemment) comprendre qu'il fallait payer celui de 100 euros ET celui de 400. Je devais donc toujours 100 euros aux impots.
 
 On m'avait envoyé des lettres de relances, mais à une adresse ou je ne vivais plus. Les impôts connaissaient mon adresse email (ils m'envoyaient des newsletter), mon numéro de téléphone (j'avais déjà été rappelé lors mon problème de déclaration).
 
