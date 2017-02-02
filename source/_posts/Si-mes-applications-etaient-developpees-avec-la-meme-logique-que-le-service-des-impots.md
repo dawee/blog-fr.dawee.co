@@ -176,7 +176,7 @@ Elle m'expliquait qu'elle n'arrivait pas à se connecter à Facebook depuis son 
 
 - "Ce fonctionnement est vraiment idiot"
 
-- "Je ne pourrais pas vous dire madame. On a toujours fait comme ça et personne ne s'est jamais plaint"
+- "**Je ne pourrais pas vous dire madame. On a toujours fait comme ça et personne ne s'est jamais plaint**"
 
 
 ...
